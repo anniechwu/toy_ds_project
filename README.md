@@ -1,3 +1,4 @@
 # toy_ds_project
-project creation date: May 27, 2025
-author: Annie Wu
+Project creation date: May 27, 2025
+
+Author: Annie Wu
